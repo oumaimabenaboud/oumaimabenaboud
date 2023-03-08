@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"> Hey (أهلا) 👋 My name is oumaima </h1>
+<h1 align="center"> Hey (أهلا) 👋 My name is Oumaïma Benaboud </h1>
 
 <!--
 **oumaimabenaboud/oumaimabenaboud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
