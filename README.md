@@ -26,6 +26,7 @@
    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" /> </a>
   <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" width="40" height="40" /></a>
  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"  alt="netbeans" width="40" height="40" /></a>
+ <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="colab" width="60" height="40" /></a>
 </p>
 
 <h3 align="left">Frameworks and tools:</h3>
@@ -35,6 +36,7 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" /></a>
  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40" /></a>
+ <a href="https://www.anaconda.com/products/distribution" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40" /></a>    
 </p>
 
 <h3 align="left">Databases:</h3>
